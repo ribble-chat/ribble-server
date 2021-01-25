@@ -1,0 +1,3 @@
+[submodule "ribble-grpc"]
+	path = ribble-grpc
+	url = https://github.com/ribble-chat/ribble-grpc
